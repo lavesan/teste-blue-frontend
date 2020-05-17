@@ -1,5 +1,9 @@
 # teste-blue-frontend
 
+Front-end simples fazendo a criação de um usuário
+
+Projeto iniciado com `@vue/cli`
+
 ## Pré-requisitos
 
 - [npm](https://www.npmjs.com/get-npm)

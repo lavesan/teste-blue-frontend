@@ -1,24 +1,24 @@
-# teste-blue
+# teste-blue-frontend
 
-## Project setup
-```
-yarn install
-```
+## Pré-requisitos
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+- [npm](https://www.npmjs.com/get-npm)
+- [node](https://nodejs.org/pt-br/download/)
 
-### Compiles and minifies for production
+## Iniciando
+
+1. Crie um arquivo **.env** na raiz do projeto com as suas configurações, de acordo com o arquivo **.env.example**
+2. Execute o comando `npm i` no seu terminal para instalar as dependências
+3. Execute `npm run serve` para executar a aplicação
+
+### Compilar e minificar para produção
+
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### Ativar o lint
+
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

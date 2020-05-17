@@ -14,11 +14,11 @@
 ### Compilar e minificar para produção
 
 ```
-yarn build
+npm run build
 ```
 
 ### Ativar o lint
 
 ```
-yarn lint
+npm run lint
 ```

@@ -2,6 +2,7 @@
   "name": "teste-blue",
   "version": "0.1.0",
   "private": true,
+  "author": "Valdery Alves Paes Júnior (valdery.jur@gmail.com)",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -9,9 +10,13 @@
   },
   "dependencies": {
     "@coreui/coreui": "^3.0.0",
+    "@coreui/vue": "^3.0.8",
+    "@popperjs/core": "^2.4.0",
     "axios": "^0.19.2",
     "core-js": "^3.6.4",
+    "perfect-scrollbar": "^1.5.0",
     "vue": "^2.6.11",
+    "vue-toast-notification": "^0.4.0",
     "vuelidate": "^0.7.5"
   },
   "devDependencies": {
@@ -21,6 +26,8 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
